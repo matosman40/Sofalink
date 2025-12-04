@@ -1,0 +1,9 @@
+services:
+  sofalink:
+    build: .
+    container_name: sofalink
+    ports:
+      - "8282:8080"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

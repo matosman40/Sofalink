@@ -1,0 +1,9 @@
+{
+  "id": "president",
+  "name": "Président",
+  "type": "card",
+  "min_players": 3,
+  "max_players": 8,
+  "engine": "turn-based",
+  "status": "prototype"
+}

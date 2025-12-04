@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "id": "AS",
+      "value": "A",
+      "suit": "spades"
+    },
+    {
+      "id": "2S",
+      "value": "2",
+      "suit": "spades"
+    },
+    {
+      "id": "AH",
+      "value": "A",
+      "suit": "hearts"
+    },
+    {
+      "id": "AD",
+      "value": "A",
+      "suit": "diamonds"
+    }
+  ]
+}

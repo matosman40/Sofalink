@@ -1,0 +1,7 @@
+{
+  "id": "bicycle_classic",
+  "name": "Jeu classique Bicycle",
+  "description": "Jeu de cartes standard 52 cartes (cœurs, carreaux, trèfles, piques).",
+  "cards_count": 52,
+  "version": "1.0.0"
+}

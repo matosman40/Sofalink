@@ -1,0 +1,10 @@
+{
+  "id": "president",
+  "name": "Pr\u00e9sident",
+  "type": "card_game",
+  "category": "cards",
+  "deck_required": "bicycle_classic",
+  "min_players": 3,
+  "max_players": 8,
+  "description": "Jeu de cartes classique (Trou du cul), base de test pour le moteur SofaLink."
+}

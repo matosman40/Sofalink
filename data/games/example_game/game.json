@@ -1,0 +1,6 @@
+{
+  "id": "example_game",
+  "name": "Jeu d'exemple",
+  "description": "Un jeu d'exemple utilisant le deck example_deck",
+  "deck_id": "example_deck"
+}
